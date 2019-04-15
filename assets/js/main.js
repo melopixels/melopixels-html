@@ -22,10 +22,10 @@
 		// Header Sticky
 		$(window).on('scroll',function() {
             if ($(this).scrollTop() > 120){  
-                $('.startp-nav').addClass("is-sticky");
+                $('.melopixels-nav').addClass("is-sticky");
             }
             else{
-                $('.startp-nav').removeClass("is-sticky");
+                $('.melopixels-nav').removeClass("is-sticky");
             }
 		});
 

@@ -1,5 +1,5 @@
 /*==============================================================*/
-// Startp Contact Form  JS
+// Melo Pixels Contact Form  JS
 /*==============================================================*/
 (function ($) {
     "use strict"; // Start of use strict

@@ -1,5 +1,5 @@
 /*
-@File: StartP Template Styles
+@File: Melo Pixels Template Styles
 
 * This file contains the styling for the actual tepmlate, this
 is the file you need to edit to change the look of the
@@ -371,15 +371,15 @@ Preloader CSS
 /*================================================
 Navbar CSS
 =================================================*/
-.startp-mobile-nav {
+.melopixels-mobile-nav {
   display: none;
 }
 
-.startp-mobile-nav.mean-container .mean-nav ul li a.active {
+.melopixels-mobile-nav.mean-container .mean-nav ul li a.active {
   color: #c679e3;
 }
 
-.startp-nav {
+.melopixels-nav {
   background: transparent;
   position: absolute;
   top: 0;
@@ -390,18 +390,18 @@ Navbar CSS
   height: auto;
 }
 
-.startp-nav nav ul {
+.melopixels-nav nav ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
 
-.startp-nav nav .navbar-nav .nav-item {
+.melopixels-nav nav .navbar-nav .nav-item {
   position: relative;
   padding: 15px 0;
 }
 
-.startp-nav nav .navbar-nav .nav-item a {
+.melopixels-nav nav .navbar-nav .nav-item a {
   font-weight: 500;
   font-size: 14px;
   color: #4a6f8a;
@@ -413,15 +413,15 @@ Navbar CSS
   margin-right: 14px;
 }
 
-.startp-nav nav .navbar-nav .nav-item a:hover, .startp-nav nav .navbar-nav .nav-item a:focus, .startp-nav nav .navbar-nav .nav-item a.active {
+.melopixels-nav nav .navbar-nav .nav-item a:hover, .melopixels-nav nav .navbar-nav .nav-item a:focus, .melopixels-nav nav .navbar-nav .nav-item a.active {
   color: #c679e3;
 }
 
-.startp-nav nav .navbar-nav .nav-item a svg {
+.melopixels-nav nav .navbar-nav .nav-item a svg {
   width: 14px;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu {
   -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
   background: #ffffff;
@@ -441,12 +441,12 @@ Navbar CSS
   transition: all 0.3s ease-in-out;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li {
   position: relative;
   padding: 0;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li a {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li a {
   font-size: 14px;
   font-weight: 500;
   padding: 9px 15px;
@@ -455,11 +455,11 @@ Navbar CSS
   color: #4a6f8a;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li a:hover, .startp-nav nav .navbar-nav .nav-item .dropdown_menu li a:focus, .startp-nav nav .navbar-nav .nav-item .dropdown_menu li a.active {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li a:hover, .melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li a:focus, .melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li a.active {
   color: #c679e3;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu {
   position: absolute;
   left: 220px;
   top: 0;
@@ -467,63 +467,63 @@ Navbar CSS
   visibility: hidden !important;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a {
   color: #4a6f8a;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:hover, .startp-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:focus, .startp-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a.active {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:hover, .melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a:focus, .melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li .dropdown_menu li a.active {
   color: #c679e3;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li:hover .dropdown_menu {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li:hover .dropdown_menu {
   opacity: 1 !important;
   visibility: visible !important;
   top: -20px !important;
 }
 
-.startp-nav nav .navbar-nav .nav-item .dropdown_menu li:hover a {
+.melopixels-nav nav .navbar-nav .nav-item .dropdown_menu li:hover a {
   color: #c679e3;
 }
 
-.startp-nav nav .navbar-nav .nav-item:hover ul {
+.melopixels-nav nav .navbar-nav .nav-item:hover ul {
   opacity: 1;
   visibility: visible;
   top: 100%;
 }
 
-.startp-nav nav .others-option {
+.melopixels-nav nav .others-option {
   margin-left: 20px;
 }
 
-.startp-nav nav .others-option .btn.btn-light {
+.melopixels-nav nav .others-option .btn.btn-light {
   background: transparent;
   border: 2px dashed #d6b4e7;
   padding: 12px 33px;
   margin-right: 10px;
 }
 
-.startp-nav nav .others-option .btn.btn-light:hover, .startp-nav nav .others-option .btn.btn-light:focus {
+.melopixels-nav nav .others-option .btn.btn-light:hover, .melopixels-nav nav .others-option .btn.btn-light:focus {
   color: #ffffff;
   border-color: #c679e3;
 }
 
-.startp-nav nav .others-option .btn.btn-light::after, .startp-nav nav .others-option .btn.btn-light::before {
+.melopixels-nav nav .others-option .btn.btn-light::after, .melopixels-nav nav .others-option .btn.btn-light::before {
   background: #c679e3;
 }
 
-.startp-nav nav .others-option .btn.btn-primary {
+.melopixels-nav nav .others-option .btn.btn-primary {
   background: #44ce6f;
   -webkit-box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
           box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
 
-.startp-nav nav .others-option .btn.btn-primary::after, .startp-nav nav .others-option .btn.btn-primary::before {
+.melopixels-nav nav .others-option .btn.btn-primary::after, .melopixels-nav nav .others-option .btn.btn-primary::before {
   background: #c679e3;
   -webkit-box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
           box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 
-.startp-nav.is-sticky {
+.melopixels-nav.is-sticky {
   position: fixed;
   top: 0;
   left: 0;
